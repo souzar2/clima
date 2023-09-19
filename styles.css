@@ -12,6 +12,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.img-body{
     background-image: url('https://source.unsplash.com/1600x900/');
 }
 
